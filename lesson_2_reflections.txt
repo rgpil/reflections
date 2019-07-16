@@ -21,7 +21,7 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-	
+	I can see the reachability of each commit in each branch in the commit history.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
